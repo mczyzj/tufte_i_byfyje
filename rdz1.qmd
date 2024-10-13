@@ -1,0 +1,53 @@
+## Czym som Byfyje
+
+No byfyje to som kredense kuchenne. Z reguły białe w oryginale, a nieoryginalne są pomalowane różnorodnie. Albo na mientowo albo na różowo. I czasem maja kafelek gdzieś dołożony albo są elementy szlifnięte do gołej dechy.
+
+[Były też takie byfyje co je w czasach Art Deco robili. Ach cóż to były za byfyje!]{.column-margin}
+
+### Byfyj pierwszy
+
+Pierwszy byfyj jest widoczny na ten przykład na załączonym obrazku:
+
+```{r echo=FALSE, eval=TRUE, out.width="100%"}
+#| label: pierwszy-byfyj
+#| fig-cap: "Tego to chyba w DDRku robili."
+#| cap-location: margin
+knitr::include_graphics("img/kuchnia1.png")
+```
+
+****
+
+```{r echo=FALSE}
+#| fig-width: 3.5
+#| fig-height: 2
+#| column: margin
+knitr::include_graphics("img/kuchnia_margines.png")
+```
+
+Dla przykładu można też takiego byfyja zrobić bardzo małym i wyświetlić go sobie na marginesie.
+
+### Byfyj drugi
+
+```{r echo=FALSE}
+#| fig-width: 3.5
+#| fig-height: 2
+#| column: margin
+knitr::include_graphics("img/kuchnia_margines_2.png")
+```
+
+To teraz zaczniemy od marginesu.
+
+To po chwili oddechu można pokazać drugiego konkreta. Jak widać na kolorowym obrazku ten także jest biały niczym europa w V w Naszej Ery.
+
+```{r echo=FALSE, eval=TRUE, out.width="100%"}
+#| label: drugi-byfyj
+#| fig-cap: "Ten też z DDRu mimo, że na amerykański wygląda."
+#| cap-location: margin
+knitr::include_graphics("img/kuchnia2.png")
+```
+
+No i zeby podsumować to trzeba by było jakieś odnośniki do bibliografi dać. Więc to wszystko pochodzi z [@ksiazka1].
+
+A ciekawe czy da sie zacytować to jeszcze raz [@ksiazka1]
+
+

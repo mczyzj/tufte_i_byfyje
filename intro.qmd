@@ -1,0 +1,11 @@
+# Wstęp
+
+Na wstępie należy zauważyć, że klunkrów to jest na prawdę dużo rodzajów. Dlatego czeba albo wiedzy (patrzaj -@sec-wiedza) albo obycia (patrzaj -@sec-obycie) coby je dobrze rozpoznać.
+
+## Wiedza {#sec-wiedza}
+
+Wiedze czerpiemy z ksiązek i katalogów ale to nie som tanie rzeczy Halinka.
+
+## Obycie {#sec-obycie}
+
+Żeby być obytym trzeba z klukrem poobcować. Obmacać z wyczuciem.

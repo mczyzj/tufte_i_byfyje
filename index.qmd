@@ -1,0 +1,4 @@
+---
+date: "`r Sys.Date()`"
+---
+![](img/klunkry_cover.png){fig-alt="Kredens byfyj ale taki Art Deco"}

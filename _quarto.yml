@@ -1,0 +1,30 @@
+project:
+  type: book
+
+book:
+  title: "Krótka książka o klunkrach"
+  author: "MC"
+  date: "13.10.2024"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - rdz1.qmd
+    - references.qmd
+  search: true
+  downloads: [epub]
+  sidebar:
+    style: floating
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: journal
+    grid:
+      margin-width: 350px
+  pdf:
+    documentclass: scrreprt
+reference-location: margin
+citation-location: margin
+editor: visual
+
